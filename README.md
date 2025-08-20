@@ -1,11 +1,12 @@
--  Hi,  👋
--
--
-- I’m Cyril from London and a certified Machine Learning Engineer / Data Scientist / Research Scientist
-- 👀 I’m interested in building machine learning models that solve business problems by helping businesses make data-driven decisions and better choices.  
-- 🌱 I’m currently learning deep learning and building models that help solve medical problems and other business problems.
--  I recently built a chatbot / virtual assistant that provides round-the-clock customer support, enabling customers to get answers to their queries at any time, even outside of business hours. 
-- I want to collaborate with other data professionals and software engineers to solve real-world problems.
-- 📫 Send ideas to cyrilobeng7@gmail.com
+-Hi, I’m Cyril, a Data Analyst | Business Analyst | Machine Learning Engineer | Data Scientist | Research Scientist based in London.
+
+🔹 I specialize in data analytics, business intelligence, and machine learning, with experience turning raw data into actionable insights that drive business decisions.
+🔹 Skilled in SQL, Python (Pandas, NumPy, Scikit-Learn), Power BI, and Excel, I build interactive dashboards, reports, and predictive models that support data-driven decision-making.
+🔹 My projects range from credit card fraud detection and healthcare AI models to Power BI dashboards for e-commerce profitability.
+🔹 Recently, I developed a customer support chatbot that provides 24/7 responses, improving customer experience outside business hours.
+🔹 I’m passionate about collaborating with data professionals and software engineers to solve real-world problems across healthcare, finance, and business domains.
+
+📫 Reach me at cyrilobeng7@gmail.com
+ | 🌐 [(https://www.linkedin.com/in/cyril-obeng-darko-937a32232/)]
 
 
